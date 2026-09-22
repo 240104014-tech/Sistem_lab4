@@ -1,5 +1,5 @@
 <?php
-$namaAplikasi = 'Sistem Inventaris Laboratorium';
+$namaAplikasi = 'Sistem Inventaris Laboratorium Lab 4';
 $waktu = date('d-m-Y H:i:s');
 ?>
 <!doctype html>
